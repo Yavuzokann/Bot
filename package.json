@@ -1,0 +1,14 @@
+{
+  "name": "crim",
+  "version": "1.0.1",
+  "description": "Bu botu 1 sunucuya ait yaptım.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Yavuzokann",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
